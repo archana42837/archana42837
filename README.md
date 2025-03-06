@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archana42837
-- 👀 I’m interested in ... SQL,Power BI,Pandas, Numpy, Matplotlib, Seaborn, Advance excesl, Artificial Intelligence, 
+- 👀 I’m interested in ... SQL,Power BI,Pandas, Numpy, Matplotlib, Seaborn, Advance excel, Artificial Intelligence, 
 - 🌱 I’m currently learning ... Raspberry Pi
 - 💞️ I’m looking to collaborate on ... Data Science 
 - 📫 How to reach me ...archana42837@gmail.com
