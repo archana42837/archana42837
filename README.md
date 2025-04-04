@@ -10,7 +10,7 @@ Hi there! 👋 I'm Archana, an aspiring **Data Scientist** passionate about **Ma
 - **Databases:** MySQL, PostgreSQL  
 
 ### 📈 Currently Learning: 
-- MLOps & Cloud Deployment  
+- AWS  
 
 ### 🌱 Connect With Me:
 http://linkedin.com/in/archana-jayakumar-a5a04a222
