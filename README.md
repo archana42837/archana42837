@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @archana42837
-- 👀 I’m interested in ... SQL,Power BI,Pandas, Numpy, Matplotlib, Seaborn, Advance excel, Artificial Intelligence, 
-- 🌱 I’m currently learning ... Raspberry Pi
-- 💞️ I’m looking to collaborate on ... Data Science 
-- 📫 How to reach me ...archana42837@gmail.com
-- 😄 Pronouns: ...SHE/HER
-- ⚡ Fun fact: ... "I talk to computer more than I talk to people some days"
+# 💡 Aspiring Data Scientist | Machine Learning | AI Enthusiast  
 
-<!---
-archana42837/archana42837 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I'm Archana, an aspiring **Data Scientist** passionate about **Machine Learning, Deep Learning, and NLP**.  
+
+### 🚀 Skills & Technologies:
+- **Programming:** Python, R, SQL  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
+- **AI & NLP:** Generative AI, Transformers, LLMs  
+- **Databases:** MySQL, PostgreSQL  
+
+### 📈 Currently Learning: 
+- MLOps & Cloud Deployment  
+
+### 🌱 Connect With Me:
+http://linkedin.com/in/archana-jayakumar-a5a04a222
+
+📫 Reach me at: archana42837@gmail.com  
